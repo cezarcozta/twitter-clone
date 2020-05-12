@@ -1,5 +1,5 @@
 # Twitter Clone  
-Flexbox pratice  
+Flexbox pratice developing a static twitter clone interface.  
 # Material  
 RocketSeat  
 # Aula  
